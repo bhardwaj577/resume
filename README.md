@@ -70,6 +70,8 @@ This project was created to showcase my **frontend development skills** and demo
 
 BCA Graduate | Aspiring Frontend Developer
 
+## Project Page URL:  https://bhardwaj577.github.io/resume/
+
 * GitHub: https://github.com/bhardwaj577
 * LinkedIn: https://www.linkedin.com/in/sudhanshu-kumar-69411035b/
 
