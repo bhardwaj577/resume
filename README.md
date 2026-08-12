@@ -58,7 +58,7 @@ git clone https://github.com/bhardwaj577/resume-website.git
 
 The website can be hosted using **GitHub Pages**.
 
-**Live Demo:** Add your GitHub Pages URL here.
+**Live Demo:** https://bhardwaj577.github.io/resume/.
 
 ## 🎯 Purpose
 
